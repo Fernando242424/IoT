@@ -1,0 +1,11 @@
+*.iml
+.gradle/
+local.properties
+.idea/
+build/
+app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+# No subir las credenciales de Firebase si el repositorio es público
+app/google-services.json
